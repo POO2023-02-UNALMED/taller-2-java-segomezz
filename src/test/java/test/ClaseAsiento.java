@@ -9,6 +9,7 @@ public class ClaseAsiento {
 		int precio;
 		int registro;
 		public final static cambiarColor(String rojo, String verde,String amarillo,String negro,String blanco);
+	
 	}
 	public static final void cambiarColor(String rojo, String verde,String amarillo,String negro,String blanco) {
 		
